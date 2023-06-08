@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1627485370 source:c:\users\samyra\documents\trabalho, campo minado\campo minado\main.cpp
+	<conio.h>
+	<time.h>
+	<iostream>
+
